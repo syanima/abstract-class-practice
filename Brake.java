@@ -1,0 +1,3 @@
+interface Brake{
+	void brake();
+}
